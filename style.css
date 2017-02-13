@@ -1,0 +1,28 @@
+p {
+    border: 2px solid pink;
+    padding: 30px 30px 30px 30px;
+}
+
+li {
+    font-display: block;
+    text-align: center;
+    text-decoration: line-through;
+    color: darkmagenta;
+}
+
+ul {
+    text-align: center
+}
+
+h3 {
+    font-size: 70px;
+    text-decoration: underline;
+    color: mediumaquamarine;
+    font-family: fantasy;
+    
+}
+
+h4 {
+    color: darkblue;
+    text-shadow: 2px 2px lightblue;
+}
